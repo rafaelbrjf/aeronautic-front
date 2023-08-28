@@ -8,11 +8,11 @@
 
 3- Abra um terminal onde queira clonar o projeto e digite git clone https://github.com/rafaelbrjf/aeronautic-back
 
-4- Foram utilizados Java 17 e Maven 3.8.7 no projeto, instale-os na máquina e utilize o comando mvn spring-boot:run estando em um terminal na pasta do projeto para iniciar o servidor
+4- Foram utilizados Java 17 e Maven 3.8.7 no projeto back-end, instale-os na máquina e utilize o comando mvn spring-boot:run estando em um terminal na pasta do projeto para iniciar o servidor
 
 5- Para informações sobre os Endpoints, acessar o link http://localhost:8080/swagger-ui/index.html 
 
-6- Para rodar localmente o front-end, clonar repositório aeronautic-front, rodar o comando npm i, e depois npm run dev. Se preferir rodar através do deploy, utilizar link https://aeronautic-front.vercel.app/ 
+6- O projeto do front-end foi feito utilizando React e Vite. Para rodar localmente o front-end, clonar repositório aeronautic-front, rodar o comando npm i, e depois npm run dev. Se preferir rodar através do deploy, utilizar link https://aeronautic-front.vercel.app/ 
 
 __________________________________________________________________________________________________________________________________
 
