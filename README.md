@@ -8,7 +8,7 @@ Para rodar o projeto:
 
 3- Abra um terminal onde queira clonar o projeto e digite git clone https://github.com/rafaelbrjf/aeronautic-back
 
-4- Configure o Java e o Maven na máquina, e utilize o comando mvn spring-boot:run para iniciar o servidor.
+4- Configure o Java (versão 17) e o Maven (3.8.7) na máquina, e utilize o comando mvn spring-boot:run para iniciar o servidor.
 
 5- Para informações sobre os Endpoints, acessar o link http://localhost:8080/swagger-ui/index.html .
 
